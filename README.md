@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohannedF16
-- 👀 I’m interested in devoloping web Apps and mobile Apps
+- 👀 I’m interested in developing web Apps and mobile Apps
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to learn more and do much 
 - 📫 How to reach me mohanned.fathy1998@gmail.com
